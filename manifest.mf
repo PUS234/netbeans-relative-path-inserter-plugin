@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: de.peters.relativepathinserter
+OpenIDE-Module-Localizing-Bundle: de/peters/relativepathinserter/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Install: de/peters/relativepathinserter/Installer.class
+
