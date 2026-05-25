@@ -28,7 +28,7 @@ Open a project in Apache NetBeans
 2.	Right-click at the desired position in the editor
 3.	Click ‚Insert relative path‘
 
-![alt text](image.png)
+![Usage Screenshot](screenshots/usage1b.png)
 
 ### Replace Selected Text
 If text is selected in the editor, the selected text will be replaced with the generated relative path.
