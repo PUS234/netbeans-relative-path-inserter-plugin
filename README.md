@@ -13,7 +13,7 @@ A lightweight Apache NetBeans plugin to insert relative file paths into editor t
 ## Installation
 ### Install from NBM File
 
-1. Download the latest `.nbm` file from the Releases page
+1. Download the latest `.nbm` file from the [Releases page](https://github.com/PUS234/RelativePathInserter/releases/latest)
 2. Open Apache NetBeans
 3. Go to: Tools -> Plugins -> Downloaded -> Add Plugins…
 4. Select the downloaded .nbm file
